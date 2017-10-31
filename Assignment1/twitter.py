@@ -23,4 +23,5 @@ Toptags = counts.sortBy(lambda x: x[1],False)
 Top100 = Toptags.take(100)
 
 # Printing top100 tags
-Top100
+for i in Top100:
+	print 'Tag: '+ i[0] + '    ,count:'+ str(i[1]) 

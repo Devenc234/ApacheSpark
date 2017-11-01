@@ -1,0 +1,11 @@
+Attached is the csv file containing GDP data for all countries in the world from 1960 to 2016.
+Using spark, print the list of the names of the countries having the fastest GDP growth in a year.
+For example, the output format will be:
+1960 USA
+1961 Russia
+1962 France
+...
+Evaluation criteria:
+1. Use Dataframe and SparkSQL
+2. Source code should be uploaded in Github and link should be submitted with the answer.
+3. Screenshot or text of the output should be submitted.
